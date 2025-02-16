@@ -25,4 +25,6 @@ The Ocean Systems Laboratory is part of the [Edinburgh Centre for Robotics](http
 
 
 We currently have many openings, so if you are interested in doing a postdoc or a PhD please contact: ignacio.carlucho@hw.ac.uk 
+We have funding opportunities available at the [SPADS CDT](https://spads.ac.uk/how-apply) and the [CDT-D2AIR](https://www.edinburgh-robotics.org/apply). 
 
+Are you interested in doing an [MSc in Robotics](https://www.hw.ac.uk/study/postgraduate/robotics)? Come study with us at Heriot-Watt University and the National Robotarium! We have some [scholarship opportunities available here!](https://www.hw.ac.uk/study/fees-and-funding/scholarships-and-bursaries/heriot-watt-future-shapers-scholarship)

@@ -74,18 +74,6 @@ nav_order: 1
     </div>
   </div>
 
-<br>
-
-  <div class="row align-items-center">
-    <div class="col-2">
-      {% include figure.html path="assets/img/profiles/juliette.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-10">
-     <b>  Dr. Juliette Drupt </b> | <a href="https://scholar.google.com/citations?user=NCVrNhIAAAAJ&hl=fr">Personal page</a> <br>
-     Project description: TBD <br>
-    </div>
-  </div>
-
 
 <hr>
 
@@ -181,19 +169,31 @@ manipulation <br>
 
 <hr>
 
-## Master students
+
+
+## Researchers
+
 
   <div class="row align-items-center">
     <div class="col-2">
-      {% include figure.html path="assets/img/profiles/michael.png" title="example image" class="img-fluid rounded z-depth-1" %}
+      {% include figure.html path="assets/img/profiles/simon.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-10">
-     <b> Michael Kirby </b> <br>
-     Supervisors: Dr. Maria Koskinopoulou and Dr. Ignacio Carlucho <br>
-     Project title: Vision-based Navigation and Planning of Underwater Vehicles  <br>
+     <b> Simon Archieri </b>| <a href="https://www.edinburgh-robotics.org/students/pierre-nicolay">Personal page</a>  <br>
+     Project title: Underwater sonar 3D reconstruaction. <br>
     </div>
   </div>
 
-<hr>
+<br>
 
+  <div class="row align-items-center">
+    <div class="col-2">
+      {% include figure.html path="assets/img/profiles/ShuPan.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-10">
+     <b> Shu Pan </b>| Personal page  <br>
+     Project title: Underwater camera and sonar, calibration and SLAM  <br>
+    </div>
+  </div>
 
+<br>
